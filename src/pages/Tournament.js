@@ -55,7 +55,7 @@ export default function Tournament() {
             </h2>
 
             <ul className="space-y-4 text-yellow-900 font-semibold text-lg">
-              <li>• Committee members will not play; we organize, manage & motivate.</li>
+              {/* <li>• Committee members will not play; we organize, manage & motivate.</li> */}
               <li>• Exciting gifts, trophies & rewards for all teams.</li>
               <li>• Professional photo sessions with Instagram posting.</li>
               <li>
